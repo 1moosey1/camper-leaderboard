@@ -1,27 +1,24 @@
 import React, { Component } from 'react';
 import LeaderboardContainer from './containers/LeaderboardContainer';
 
-class App extends Component {
+const App = () => {
 
-    render() {
+    return (
+        <div className="container">
+            <div className="row">
+                <div className="col-md-10 offset-md-1">
 
-        return (
-            <div className="container">
-                <div className="row">
-                    <div className="col-md-10 offset-md-1">
+                    <h2 className="header"> Camper Leaderboard </h2>
+                    <LeaderboardContainer/>
 
-                        <h2 className="header"> Camper Leaderboard </h2>
-                        <LeaderboardContainer/>
+                    <footer>
+                        Design & Code by Juan Gonzalez
+                    </footer>
 
-                        <footer>
-                            Design & Code by Juan Gonzalez
-                        </footer>
-
-                    </div>
                 </div>
             </div>
-        );
-    }
-}
+        </div>
+    );
+};
 
 export default App;
