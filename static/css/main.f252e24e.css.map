@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KAEE,SACA,UACA,sBAAwB,CAG1B,QAEE,YACA,iBAAmB","file":"static/css/main.f252e24e.css","sourcesContent":["body {\n\n  margin: 0;\n  padding: 0;\n  font-family: sans-serif;\n}\n\n.header {\n\n  margin: 25px;\n  text-align: center;\n}\n\n\n// WEBPACK FOOTER //\n// ./src/index.css"],"sourceRoot":""}
