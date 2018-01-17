@@ -6,8 +6,7 @@ https://www.freecodecamp.org/challenges/build-a-camper-leaderboard
 
 Details:
 
-Goal of the project was to build a single page react app that calls freecodecamp's api and loads users with the most
-points in the past month and all time. You can select between seeing most recent and all time users by clicking the
+Goal of the project was to build a single page react app that calls freecodecamp's api and loads users with the most points in the past month and all time. You can select between seeing most recent and all time users by clicking the
 appropriate headers.
 
 Technologies:
