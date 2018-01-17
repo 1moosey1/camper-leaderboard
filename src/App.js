@@ -13,6 +13,10 @@ class App extends Component {
                         <h2 className="header"> Camper Leaderboard </h2>
                         <LeaderboardContainer/>
 
+                        <footer>
+                            Design & Code by Juan Gonzalez
+                        </footer>
+
                     </div>
                 </div>
             </div>
